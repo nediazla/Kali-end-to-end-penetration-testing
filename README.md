@@ -1,6 +1,6 @@
-Chapter 1, Kali – An Introduction, covers installing of Kali with different desktop environments, and tweaking it a bit by installing a few custom tools. 
+[Chapter 1](content/chapter-1.md), Kali – An Introduction, covers installing of Kali with different desktop environments, and tweaking it a bit by installing a few custom tools. 
 
-Chapter 2, Gathering Intel and Planning Attack Strategies, covers recipes about collecting subdomains and other information about a target using multiple tools, such as Shodan, and so on. 
+[Chapter 2](content/chapter-2.md), Gathering Intel and Planning Attack Strategies, covers recipes about collecting subdomains and other information about a target using multiple tools, such as Shodan, and so on. 
 
 Chapter 3, Vulnerability Assessment, talks about the methods of hunting for vulnerabilities on the data discovered during information gathering process. 
 
