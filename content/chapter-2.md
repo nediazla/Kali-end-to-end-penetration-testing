@@ -154,3 +154,6 @@ Veamos la diferencia entre un escaneo normal y un escaneo TCP:
 
 ### Idle    scan
 El escaneo inactivo es una técnica avanzada en la que ningún paquete enviado al objetivo puede rastrearse hasta la máquina atacante. Requiere que se especifique un host zombi.
+
+### Cómo hacerlo...
+El comando para realizar un análisis inactivo es: `nmap -sI zombiehost.com dominio.com`
